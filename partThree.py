@@ -6,7 +6,7 @@ def main():
 
 
 def pounds_to_float(d):
-    # TODO
+    #
 
 def percent_to_float(p):
     # TODO

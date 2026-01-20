@@ -1,9 +1,13 @@
 import math  
 
 def main():
-#TO DO  
+    x=int(input("input what is A ?"))
+    y=int(input("input what is B ?"))
+    result=pytag(x,y)
+    print(result)
 
-def pythag(A,B):
-#TO DO  
+def pytag(A,B):
+    C=(A**2+B**2)
+    return math.sqrt(C)
 
 main()
